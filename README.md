@@ -42,11 +42,6 @@ Full-Stack Developer · Team Leader · Builder of Scalable Web Apps
 
 ---
 
-## 🚀 Projects Showcase
-(Keep your project list here as before)
-
----
-
 ## 📊 GitHub Stats
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu1125-stack&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1125-stack&layout=compact&theme=radical)  
